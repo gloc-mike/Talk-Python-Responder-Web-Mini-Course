@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pipdeptree = "*"
+
+[packages]
+responder = {version = "*", override = ["asgiref"]}
+asgiref = "==2.3.2"
+
+[requires]
+python_version = "3.7"
