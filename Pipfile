@@ -9,6 +9,7 @@ pipdeptree = "*"
 [packages]
 responder = {version = "*", override = ["asgiref"]}
 asgiref = "==2.3.2"
+uvicorn = ">=0.11.7"
 
 [requires]
 python_version = "3.7"
