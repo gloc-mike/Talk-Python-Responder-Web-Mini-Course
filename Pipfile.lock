@@ -32,10 +32,10 @@
         },
         "apispec": {
             "hashes": [
-                "sha256:5ec0fe72f1422a1198973fcbb48d0eb5c7390f4b0fbe55474fce999ad6826a9b",
-                "sha256:83e4d30edce987f4791f950c847d2b8cbe91e55af3d1ac7e3a35011a5c6fdbdd"
+                "sha256:042096b2e7e1cc15548497e46691718e762296429672d6d68c13389b3c10bfaf",
+                "sha256:6288b62bf35930fbe33049dc3242a0c48a09f214a196331cae4585af8f5bc95c"
             ],
-            "version": "==4.3.0"
+            "version": "==4.4.0"
         },
         "apistar": {
             "hashes": [
@@ -217,10 +217,10 @@
         },
         "marshmallow": {
             "hashes": [
-                "sha256:4ab2fdb7f36eb61c3665da67a7ce281c8900db08d72ba6bf0e695828253581f7",
-                "sha256:eca81d53aa4aafbc0e20566973d0d2e50ce8bf0ee15165bb799bec0df1e50177"
+                "sha256:0dd42891a5ef288217ed6410917f3c6048f585f8692075a0052c24f9bfff9dfd",
+                "sha256:16e99cb7f630c0ef4d7d364ed0109ac194268dde123966076ab3dafb9ae3906b"
             ],
-            "version": "==3.10.0"
+            "version": "==3.11.1"
         },
         "parse": {
             "hashes": [
@@ -331,11 +331,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80",
-                "sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73"
+                "sha256:2f4da4594db7e1e110a944bb1b551fdf4e6c136ad42e4234131391e21eb5b0df",
+                "sha256:e7b021f7241115872f92f43c6508082facffbd1c048e3c6e2bb9c2a157e28937"
             ],
             "index": "pypi",
-            "version": "==1.26.3"
+            "version": "==1.26.4"
         },
         "uvicorn": {
             "hashes": [
